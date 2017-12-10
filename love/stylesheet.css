@@ -3,7 +3,7 @@ body {
 }
 @font-face {
 	font-family: LemonChicken;
-	src: url('C:/Users/Emily/Documents/codes/love/LEMONCHI.ttf');
+	src: url('love/LEMONCHI.ttf');
 }
 h1 {
 	text-align: center;
